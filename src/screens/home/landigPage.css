@@ -1,0 +1,43 @@
+.Music_icon {
+    display: block;
+    margin-top: 11%;
+    margin-right: auto;
+    margin-left: auto;
+    width: 10%;
+  }
+
+.pressButton {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 3.5%;
+  background-color: dimgrey;
+  border-radius: 10px;
+  padding: 15px 32px;
+  font-weight: bold;
+  text-align: center; 
+  color: white;
+}
+  
+.welc_text{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 2%;
+  width: 30%;
+  font-weight: bold;
+  font-size: xx-large;
+  text-align: center;
+  color: white;
+}
+  
+.fullscreen-wrapper {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-image: url('../images/background_picture.jpg');
+  background-size: cover;
+  background-position: center;
+}

@@ -1,0 +1,8 @@
+.screen_container {
+    background-color: black;
+    border-radius: 30px;
+}
+
+.flex {
+    display: flex;
+}
